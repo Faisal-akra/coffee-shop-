@@ -1,4 +1,4 @@
-// import About from "./myComponents/About";
+import About from "./myComponents/About";
 import Navbar from "./myComponents/Navbar";
 
 
@@ -7,7 +7,7 @@ const App = () => {
   return(
     <div>
       <Navbar/>
-      {/* <About/> */}
+      <About/>
     </div>
   )
 }
