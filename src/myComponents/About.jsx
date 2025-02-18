@@ -2,12 +2,12 @@ import cup from '../assets/about/cup.png'
 
 const About = () => {
   return(
-    <div className="flex justify-evenly  items-center mb-10 border border-black">
+    <div className="flex justify-evenly  items-center mb-10 ">
 
     <div className="flex flex-col justify-center items-center">
       <h1 className='font-extrabold text-amber-700' >Coffee with Faisal</h1>
       <h2>Coffee is special in this shop</h2>
-      <button className='border bg-amber-800 text-white '>View-more</button>
+      <button className='border bg-amber-700 rounded-sm text-white '>View-more</button>
     </div>
 
 
