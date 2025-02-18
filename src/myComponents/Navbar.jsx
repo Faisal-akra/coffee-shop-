@@ -3,11 +3,11 @@ import coffeIcon from '../assets/navbar/coffe-icon.png'
 
 const Navbar = () => {
   return(
-    <div className="flex justify-between  border border-black  items-center bg-amber-800 p-1 text-white">
+    <div className="flex justify-between  border border-black  items-center bg-amber-800  text-white">
 
 
 <div className="">
-<img src={coffeIcon} alt="coffeicon" className='w-16 h-16' />
+<img src={coffeIcon} alt="coffeicon" className='w-16 h-12' />
 </div>
 
 
