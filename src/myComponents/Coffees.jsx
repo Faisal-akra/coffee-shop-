@@ -4,7 +4,7 @@ import cup from "../assets/Coffees/cup.png";
 export const Coffes = () => {
   return (
     <>
-    <div className="  p-5  grid grid-cols-3 grid-rows-2  justify-items-center gap-12 relative border border-black bg-no-repeat bg-cover bg-center "
+    <div className="  p-5  grid grid-cols-3 grid-rows-2  justify-items-center gap-12 relative  bg-no-repeat bg-cover bg-center "
     // style={{backgroundImage: `url(${drink})`, filter: 'opacity(0.5)' }}
 
     >

@@ -5,11 +5,11 @@ export const Drinking = () => {
   return (
     <div className="flex justify-around ">
       <div className="w-[600px] h-[500px] border border-black" >
-        <img src={drink1} alt="" className="w-full h-full" />
+        <img src={drink1} alt="" className="w-full h-full rounded-2xl" />
       </div>
 
       <div className="w-[600px] h-[500px] border border-black">
-        <img src={drinnk2} alt="" className="w-full h-full" />
+        <img src={drinnk2} alt="" className="w-full h-full rounded-xl" />
       </div>
     </div>
   );
